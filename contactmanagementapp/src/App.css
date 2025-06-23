@@ -1,0 +1,61 @@
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.blue-bg{
+  background: linear-gradient(135deg, #6e7fcb, #5565e8);
+}
+
+.login-card {
+  background-color: #fff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+  padding: 30px;
+  border-radius: 12px;
+  text-align: center;
+}
+.login-card:hover {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+button {
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+button:hover {
+  background-color: #4e5ef1;
+}
+input[type="text"], input[type="password"] {
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 16px;
+  border: 1px solid #ddd;
+  margin-bottom: 15px;
+}
+
+input:focus {
+  border-color: #6e7fcb;
+  outline: none;
+}
+.alert-danger {
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+.login-logo {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.pointer-cursor{
+  cursor: pointer;
+}
