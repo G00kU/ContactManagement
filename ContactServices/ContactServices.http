@@ -1,6 +1,0 @@
-@ContactServices_HostAddress = http://localhost:5008
-
-GET {{ContactServices_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
