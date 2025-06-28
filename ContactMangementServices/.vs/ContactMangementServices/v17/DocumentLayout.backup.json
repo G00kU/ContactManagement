@@ -1,12 +1,122 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gooku\\Desktop\\Assement\\ContactMangementServices\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Migrations\\20250628163139_First-Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250628163139_First-Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96012F42-5295-496A-804E-A1E43B099B1C}|ContactMangementServices.csproj|c:\\users\\gooku\\desktop\\contactmangement\\contactmangementservices\\services\\contactmangementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96012F42-5295-496A-804E-A1E43B099B1C}|ContactMangementServices.csproj|solutionrelative:services\\contactmangementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96012F42-5295-496A-804E-A1E43B099B1C}|ContactMangementServices.csproj|c:\\users\\gooku\\desktop\\contactmangement\\contactmangementservices\\modal\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96012F42-5295-496A-804E-A1E43B099B1C}|ContactMangementServices.csproj|solutionrelative:modal\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Migrations\\20250628162333_FixedCascadingDeleteIssue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250628162333_FixedCascadingDeleteIssue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Migrations\\20250628161436_FixedCascadingDeleteIssue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250628161436_FixedCascadingDeleteIssue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96012F42-5295-496A-804E-A1E43B099B1C}|ContactMangementServices.csproj|c:\\users\\gooku\\desktop\\contactmangement\\contactmangementservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96012F42-5295-496A-804E-A1E43B099B1C}|ContactMangementServices.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250628163139_First-Migration.cs",
+              "DocumentMoniker": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Migrations\\20250628163139_First-Migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250628163139_First-Migration.cs",
+              "ToolTip": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Migrations\\20250628163139_First-Migration.cs",
+              "RelativeToolTip": "Migrations\\20250628163139_First-Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:31:39.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250628162333_FixedCascadingDeleteIssue.cs",
+              "DocumentMoniker": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Migrations\\20250628162333_FixedCascadingDeleteIssue.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250628162333_FixedCascadingDeleteIssue.cs",
+              "ToolTip": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Migrations\\20250628162333_FixedCascadingDeleteIssue.cs",
+              "RelativeToolTip": "Migrations\\20250628162333_FixedCascadingDeleteIssue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:23:33.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250628161436_FixedCascadingDeleteIssue.cs",
+              "DocumentMoniker": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Migrations\\20250628161436_FixedCascadingDeleteIssue.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250628161436_FixedCascadingDeleteIssue.cs",
+              "ToolTip": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Migrations\\20250628161436_FixedCascadingDeleteIssue.cs",
+              "RelativeToolTip": "Migrations\\20250628161436_FixedCascadingDeleteIssue.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAgwIUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:14:36.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Modal\\Contact.cs",
+              "RelativeDocumentMoniker": "Modal\\Contact.cs",
+              "ToolTip": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Modal\\Contact.cs",
+              "RelativeToolTip": "Modal\\Contact.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:53:04.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactMangementDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Services\\ContactMangementDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\ContactMangementDbContext.cs",
+              "ToolTip": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Services\\ContactMangementDbContext.cs",
+              "RelativeToolTip": "Services\\ContactMangementDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:49:45.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:30:41.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
