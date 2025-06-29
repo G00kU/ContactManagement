@@ -1,3 +1,10 @@
+# API Bin obj and .VS Files
 ContactMangementServices/bin/
 ContactMangementServices/obj/
 ContactMangementServices/.vs/
+
+# test obj and .VS Files
+ContactMangementTest/bin/
+ContactMangementTest/obj/
+ContactMangementTest/.vs/
+

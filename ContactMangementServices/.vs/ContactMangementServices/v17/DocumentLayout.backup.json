@@ -3,12 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8F5FAEB4-0826-15CE-40F2-DDCE205FFAD5}|..\\ContactMangementTest\\ContactManagementTest.csproj|c:\\users\\gooku\\desktop\\contactmangement\\contactmangementtest\\contactmanagementtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{96012F42-5295-496A-804E-A1E43B099B1C}|ContactMangementServices.csproj|c:\\users\\gooku\\desktop\\contactmangement\\contactmangementservices\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96012F42-5295-496A-804E-A1E43B099B1C}|ContactMangementServices.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Migrations\\20250629124422_UpdatedSchema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250629124422_UpdatedSchema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96012F42-5295-496A-804E-A1E43B099B1C}|ContactMangementServices.csproj|c:\\users\\gooku\\desktop\\contactmangement\\contactmangementservices\\contactmangementservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96012F42-5295-496A-804E-A1E43B099B1C}|ContactMangementServices.csproj|solutionrelative:contactmangementservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96012F42-5295-496A-804E-A1E43B099B1C}|ContactMangementServices.csproj|c:\\users\\gooku\\desktop\\contactmangement\\contactmangementservices\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96012F42-5295-496A-804E-A1E43B099B1C}|ContactMangementServices.csproj|solutionrelative:repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\obj\\Debug\\net8.0\\ContactMangementServices.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\ContactMangementServices.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96012F42-5295-496A-804E-A1E43B099B1C}|ContactMangementServices.csproj|c:\\users\\gooku\\desktop\\contactmangement\\contactmangementservices\\modal\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +34,16 @@
       "RelativeMoniker": "D:0:0:{96012F42-5295-496A-804E-A1E43B099B1C}|ContactMangementServices.csproj|solutionrelative:services\\contactmangementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96012F42-5295-496A-804E-A1E43B099B1C}|ContactMangementServices.csproj|c:\\users\\gooku\\desktop\\contactmangement\\contactmangementservices\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96012F42-5295-496A-804E-A1E43B099B1C}|ContactMangementServices.csproj|solutionrelative:repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{96012F42-5295-496A-804E-A1E43B099B1C}|ContactMangementServices.csproj|c:\\users\\gooku\\desktop\\contactmangement\\contactmangementservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96012F42-5295-496A-804E-A1E43B099B1C}|ContactMangementServices.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96012F42-5295-496A-804E-A1E43B099B1C}|ContactMangementServices.csproj|c:\\users\\gooku\\desktop\\contactmangement\\contactmangementservices\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96012F42-5295-496A-804E-A1E43B099B1C}|ContactMangementServices.csproj|solutionrelative:repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96012F42-5295-496A-804E-A1E43B099B1C}|ContactMangementServices.csproj|c:\\users\\gooku\\desktop\\contactmangement\\contactmangementservices\\migrations\\20250629124422_updatedschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96012F42-5295-496A-804E-A1E43B099B1C}|ContactMangementServices.csproj|solutionrelative:migrations\\20250629124422_updatedschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +53,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ContactManagementTest",
+              "DocumentMoniker": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementTest\\ContactManagementTest.csproj",
+              "RelativeDocumentMoniker": "..\\ContactMangementTest\\ContactManagementTest.csproj",
+              "ToolTip": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementTest\\ContactManagementTest.csproj",
+              "RelativeToolTip": "..\\ContactMangementTest\\ContactManagementTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-29T18:13:22.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactMangementServices.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\obj\\Debug\\net8.0\\ContactMangementServices.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\ContactMangementServices.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\obj\\Debug\\net8.0\\ContactMangementServices.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\ContactMangementServices.AssemblyInfo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAjwA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T17:00:33.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:59:59.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactMangementServices.csproj",
+              "DocumentMoniker": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\ContactMangementServices.csproj",
+              "RelativeDocumentMoniker": "ContactMangementServices.csproj",
+              "ToolTip": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\ContactMangementServices.csproj",
+              "RelativeToolTip": "ContactMangementServices.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-29T16:28:40.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "20250629124422_UpdatedSchema.cs",
               "DocumentMoniker": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Migrations\\20250629124422_UpdatedSchema.cs",
               "RelativeDocumentMoniker": "Migrations\\20250629124422_UpdatedSchema.cs",
@@ -50,12 +115,11 @@
               "RelativeToolTip": "Migrations\\20250629124422_UpdatedSchema.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T12:44:22.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T12:44:22.239Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -63,25 +127,24 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T12:27:47.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T12:27:47.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ContactController.cs",
               "DocumentMoniker": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
               "ToolTip": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Controllers\\ContactController.cs",
               "RelativeToolTip": "Controllers\\ContactController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T12:27:03.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Repository\\IRepository.cs",
               "RelativeDocumentMoniker": "Repository\\IRepository.cs",
@@ -89,47 +152,43 @@
               "RelativeToolTip": "Repository\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T12:09:32.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T12:09:32.653Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ContactMangementDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Services\\ContactMangementDbContext.cs",
               "RelativeDocumentMoniker": "Services\\ContactMangementDbContext.cs",
               "ToolTip": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Services\\ContactMangementDbContext.cs",
               "RelativeToolTip": "Services\\ContactMangementDbContext.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwA0AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T05:34:22.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T05:34:22.496Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Modal\\Contact.cs",
               "RelativeDocumentMoniker": "Modal\\Contact.cs",
               "ToolTip": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Modal\\Contact.cs",
               "RelativeToolTip": "Modal\\Contact.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T05:22:00.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T05:22:00.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ContactRepository.cs",
               "DocumentMoniker": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Repository\\ContactRepository.cs",
               "RelativeDocumentMoniker": "Repository\\ContactRepository.cs",
               "ToolTip": "C:\\Users\\Gooku\\Desktop\\ContactMangement\\ContactMangementServices\\Repository\\ContactRepository.cs",
               "RelativeToolTip": "Repository\\ContactRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAewDQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T03:16:41.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T03:16:41.279Z"
             }
           ]
         }
