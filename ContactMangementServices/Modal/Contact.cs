@@ -15,44 +15,13 @@ namespace ContactMangementServices.Modal
 
         public string Address { get; set; }
 
-        public int CityId { get; set; }
+        public string City { get; set; }
 
-        public int StateId { get; set; }
+        public string State { get; set; }
 
-        public int CountryId { get; set; }
-
+        public string Country { get; set; }
         public string PostalCode { get; set; }
+        public string Gender { get; set; }
 
-        public City City { get; set; }
-
-        public State State { get; set; }
-
-        public Country Country { get; set; }
-    }
-    public class Country
-    {
-        public int CountryId { get; set; }
-
-        public string Name { get; set; }
-    }
-
-    public class State
-    {
-        public int StateId { get; set; }
-
-        public string Name { get; set; }
-        public int CountryId { get; set; }
-        public Country Country { get; set; }
-    }
-
-    public class City
-    {
-        public int CityId { get; set; }
-
-        public string Name { get; set; }
-        public int StateId { get; set; }
-
-
-        public State State { get; set; }
     }
 }
