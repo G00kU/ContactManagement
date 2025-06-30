@@ -8,3 +8,6 @@ ContactMangementTest/bin/
 ContactMangementTest/obj/
 ContactMangementTest/.vs/
 
+# React app Excluded File Here
+contactmanagementapp/node_modules/
+contactmanagementapp/.vscode/
