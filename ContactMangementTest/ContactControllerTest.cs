@@ -6,6 +6,7 @@ using ContactMangementServices.Repository;
 using ContactMangementServices.Modal;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using Microsoft.Extensions.Configuration;
 
 namespace ContactManagementTest
 {
@@ -13,11 +14,11 @@ namespace ContactManagementTest
     {
         private readonly Mock<IContactRepository> _mockRepo;
         private readonly ContactController _controller;
-
+        private readonly Mock<IConfiguration> _configuration;
         public ContactControllerTests()
         {
             _mockRepo = new Mock<IContactRepository>();
-            _controller = new ContactController(_mockRepo.Object);
+            _controller = new ContactController(_mockRepo.Object, _configuration.Object);
         }
 
         [Fact]
